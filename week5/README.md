@@ -5,7 +5,7 @@ This repository showcases two advanced web development projects that demonstrate
 ## Projects
 
 ### 1. [AJAX-Enabled Bookmarker Application](https://github.com/LCC-CIT-Programming-CS233JS/03-bookmarker-template-travisburns/blob/05-bookmarker-template-travisburns/README.md) - Click Link
-
+  ### (http://citstudent.lanecc.net/~burnst074/CS233JS/Lab5/bookmarker/dist/) - Click Link
 An interactive web application for saving and managing bookmarks with dynamic content fetching.
 
 - **Key Features**: 
@@ -28,7 +28,7 @@ An interactive web application for saving and managing bookmarks with dynamic co
   - Error handling in asynchronous operations
 
 ### 2. [Weather Forecast Application](https://github.com/LCC-CIT-Programming-CS233JS/05-weather-template-travisburns) - Click Link
-
+  ### ### (http://citstudent.lanecc.net/~burnst074/CS233JS/Lab5/weatherapplication/dist/) - Click Link
 An advanced weather application that provides detailed forecasts based on user location input.
 
 - **Key Features**:
