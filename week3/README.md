@@ -4,13 +4,13 @@ This repository showcases two web development projects that demonstrate skills i
 
 ## Projects
 
-### 1. [To-Do List Application](link-to-todo-list-repo)
+### 1. [To-Do List Application](lhttps://github.com/LCC-CIT-Programming-CS233JS/03-todolist-template-travisburns) - Click Link
 An interactive to-do list for managing tasks.
 - **Key Features**: Add, delete, and mark tasks as complete, persistent storage
 - **Technologies**: HTML5, CSS3 (Bootstrap), JavaScript (ES6+), Webpack
 - **Learning Highlights**: ES6 Classes, localStorage, Webpack configuration
 
-### 2. [Bookmarker Application](link-to-bookmarker-repo)
+### 2. [Bookmarker Application](https://github.com/LCC-CIT-Programming-CS233JS/03-bookmarker-template-travisburns/blob/master/README.md) - Click Link
 A bookmark manager for saving and organizing favorite websites.
 - **Key Features**: Add and delete bookmarks, persistent storage, responsive design
 - **Technologies**: HTML5, CSS3 (Bootstrap), JavaScript (ES6+), Webpack
