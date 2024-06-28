@@ -1,60 +1,86 @@
-# Web Development Project: AJAX-Enabled Bookmarker
+# CS233JS week 5
 
+This repository showcases two advanced web development projects that demonstrate proficiency in modern JavaScript, API integration, and dynamic web application development.
 
-![bookmarkerajax](https://github.com/travisburns/cs233JSProjects/assets/41456635/5246c6f4-7d4e-41ed-8ce6-f85369f001b6)
+## Projects
 
-This repository showcases an enhanced version of the Bookmarker application, now featuring AJAX capabilities for improved functionality and user experience.
-
-## Project: AJAX-Enabled Bookmarker Application
+### 1. [AJAX-Enabled Bookmarker Application](link-to-bookmarker-repo)
 
 An interactive web application for saving and managing bookmarks with dynamic content fetching.
 
-### Key Features:
-- Add bookmarks with automatic title and image retrieval
-- Delete existing bookmarks
-- Persistent storage using localStorage
-- AJAX integration for fetching bookmark metadata
-- Responsive design
+- **Key Features**: 
+  - Add bookmarks with automatic title and image retrieval
+  - Delete existing bookmarks
+  - Persistent storage using localStorage
+  - AJAX integration for fetching bookmark metadata
 
-### Technologies Used:
-- HTML5
-- CSS3 (with Bootstrap)
-- JavaScript (ES6+)
-- Webpack for module bundling
-- Babel for JavaScript transpiling
-- AJAX (using Fetch API)
-- OpenGraph.io API for metadata retrieval
+- **Technologies**: 
+  - HTML5, CSS3 (Bootstrap)
+  - JavaScript (ES6+)
+  - Webpack, Babel
+  - OpenGraph.io API
+  - Fetch API for AJAX requests
 
-### Learning Highlights:
-- AJAX implementation using Fetch API
-- Promise-based asynchronous programming
-- API integration (OpenGraph.io)
-- Error handling in asynchronous operations
-- Dynamic DOM updates based on API responses
+- **Learning Highlights**: 
+  - AJAX implementation using Fetch API
+  - Promise-based asynchronous programming
+  - Dynamic DOM updates
+  - Error handling in asynchronous operations
+
+### 2. [Weather Forecast Application](link-to-weather-app-repo)
+
+An advanced weather application that provides detailed forecasts based on user location input.
+
+- **Key Features**:
+  - Fetch weather data based on zip code
+  - Display 4-day weather forecast
+  - Show detailed weather information for selected days
+  - Responsive design
+
+- **Technologies**:
+  - HTML5, CSS3 (Bootstrap and SASS)
+  - JavaScript (ES6+)
+  - Webpack, Babel
+  - OpenWeatherMap API
+  - Fetch API for AJAX requests
+
+- **Learning Highlights**:
+  - Multiple API integrations (geolocation and weather data)
+  - Advanced asynchronous JavaScript
+  - ES6 Modules for code organization
+  - Complex data parsing and manipulation
 
 ## Skills Demonstrated
 
-This project showcases the following skills and concepts:
+Across these projects, the following skills and concepts are showcased:
 
 1. **Advanced JavaScript**
-   - ES6+ features (classes, arrow functions, template literals)
-   - Asynchronous JavaScript (Promises, Fetch API)
-   - Error handling in asynchronous code
+   - ES6+ features (classes, arrow functions, template literals, modules)
+   - Asynchronous programming with Promises and Fetch API
+   - Object-Oriented Programming principles
 
 2. **API Integration**
-   - Making AJAX calls to external APIs
-   - Parsing and utilizing JSON responses
+   - Working with multiple third-party APIs
+   - Handling and parsing complex JSON responses
 
-3. **Modern Web Development Tools**
-   - Webpack for module bundling
+3. **Modern Development Tools**
+   - Webpack for module bundling and asset management
    - Babel for cross-browser compatibility
+   - SASS for advanced styling (Weather App)
 
-4. **DOM Manipulation**
-   - Dynamic content updates based on API responses
-   - Event handling for user interactions
+4. **Dynamic Web Applications**
+   - Real-time DOM manipulation and content updates
+   - Event-driven programming
+   - State management in front-end applications
 
-5. **Data Persistence**
-   - Using localStorage for client-side data storage
+5. **Responsive Design**
+   - Flexbox and Bootstrap for responsive layouts
+   - Mobile-first approach to web design
 
-6. **Responsive Design**
-   - Bootstrap for mobile-friendly layout
+6. **Data Management**
+   - Local storage for client-side data persistence (Bookmarker)
+   - Complex data structures and manipulations (Weather App)
+
+7. **Error Handling and User Experience**
+   - Graceful error handling in asynchronous operations
+   - User-friendly feedback and intuitive interfaces
