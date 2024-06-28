@@ -4,7 +4,7 @@ This repository serves as a hub for various web development projects, demonstrat
 
 ## Projects
 
-### 1. [Tic Tac Toe Game](link-to-tic-tac-toe-repo)
+### 1. [Tic Tac Toe Game](https://github.com/LCC-CIT-Programming-CS233JS/02-ttt-template-travisburns)
 A classic two-player game implemented with JavaScript.
 - **Key Features**: Interactive game board, win detection, player turn management
 - **Technologies**: HTML5, CSS3 (Bootstrap), JavaScript (ES6+)
