@@ -4,7 +4,7 @@ This repository showcases two web development projects that demonstrate skills i
 
 ## Projects
 
-### 1. [To-Do List Application](lhttps://github.com/LCC-CIT-Programming-CS233JS/03-todolist-template-travisburns) - Click Link
+### 1. [To-Do List Application](https://github.com/LCC-CIT-Programming-CS233JS/03-todolist-template-travisburns) - Click Link
 An interactive to-do list for managing tasks.
 - **Key Features**: Add, delete, and mark tasks as complete, persistent storage
 - **Technologies**: HTML5, CSS3 (Bootstrap), JavaScript (ES6+), Webpack
