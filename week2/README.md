@@ -10,13 +10,13 @@ A classic two-player game implemented with JavaScript.
 - **Technologies**: HTML5, CSS3 (Bootstrap), JavaScript (ES6+)
 - **Learning Highlights**: DOM manipulation, game logic implementation, OOP in JavaScript
 
-### 2. [Concentration Card Game](link-to-concentration-game-repo)
+### 2. [Concentration Card Game](https://github.com/LCC-CIT-Programming-CS233JS/02-concentration-template-travisburns)   - Click Link
 A memory game where players match pairs of cards.
 - **Key Features**: Card flipping animation, match tracking, game timer
 - **Technologies**: HTML5, CSS3 (Bootstrap), JavaScript (ES6+)
 - **Learning Highlights**: Array manipulation, asynchronous JavaScript, state management
 
-### 3. [Stopwatch Application](link-to-stopwatch-repo)
+### 3. [Stopwatch Application](https://github.com/LCC-CIT-Programming-CS233JS/02-stopwatch-template-travisburns) - Click Link
 A simple stopwatch with start, stop, and reset functionality.
 - **Key Features**: Time tracking, lap time recording
 - **Technologies**: HTML5, CSS3, JavaScript
