@@ -6,6 +6,8 @@ This repository showcases an advanced web application for event registration, fe
 
 A comprehensive event registration system with three main components: registration form, status dashboard, and about page.
 
+1. [AJAX-Enabled Bookmarker Application](https://github.com/LCC-CIT-Programming-CS233JS/06-event-template-travisburns/blob/master/README.md) - Click Link
+
 ### Key Features:
 1. **Registration Page (Home)**
    - User registration form with validation
