@@ -1,4 +1,4 @@
-#Week 6 Project: Web Development Project: Event Registration Application
+# Week 6 Project: Web Development Project: Event Registration Application
 
 This repository showcases an advanced web application for event registration, featuring multiple pages with different functionalities, API integration, and data visualization.
 
