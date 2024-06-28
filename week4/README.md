@@ -5,7 +5,7 @@ This repository showcases a web development project that demonstrates advanced s
 ## Project
 
 ### 1. [Meme Creator Application](https://github.com/LCC-CIT-Programming-CS233JS/04-memecreator-template-travisburns/blob/master/README.md) - Click Link
-
+  ### (http://citstudent.lanecc.net/~burnst074/CS233JS/Lab4/memeCreator/dist/) - Click Link
 An interactive web application for creating and customizing memes.
 
 - **Key Features**: 
