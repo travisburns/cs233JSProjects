@@ -27,7 +27,7 @@ An interactive web application for saving and managing bookmarks with dynamic co
   - Dynamic DOM updates
   - Error handling in asynchronous operations
 
-### 2. [Weather Forecast Application]()
+### 2. [Weather Forecast Application](https://github.com/LCC-CIT-Programming-CS233JS/05-weather-template-travisburns) - Click Link
 
 An advanced weather application that provides detailed forecasts based on user location input.
 
