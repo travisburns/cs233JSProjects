@@ -83,14 +83,4 @@ A comprehensive event registration system with three main components: registrati
 4. Run `npm run build` for production build
 5. Use `npm run watch` for development with live reloading
 
-## Future Enhancements
-- Implement user authentication
-- Add email confirmation for registrations
-- Enhance data visualization with more interactive features
-- Implement server-side rendering for improved performance
 
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check the issues page for open problems or suggest new features.
-
-## License
-This project is MIT licensed.
