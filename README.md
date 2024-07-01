@@ -32,4 +32,4 @@ Each week's projects are organized into separate directories:
 
 Each project directory contains its own README with specific setup instructions. Generally, projects can be run by opening the HTML file in a web browser or, for more complex projects, following the npm-based build process outlined in their respective READMEs.
 
-This repository serves as a comprehensive portfolio of web development skills acquired throughout the CS233JS course, demonstrating a journey from fundamental concepts to advanced web application development.
+This repository serves as a comprehensive portfolio of web development skills I had aquired through the CS233JS course, demonstrating a journey from fundamental concepts to advanced web application development.
